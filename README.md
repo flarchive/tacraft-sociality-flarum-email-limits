@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of tacraft-sociality/flarum-email-limits.** Not for installation: use [Packagist](https://packagist.org/packages/tacraft-sociality/flarum-email-limits) or the [upstream repository](https://github.com/TaCraft-Sociality/flarum-email-limits).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/tacraft-sociality-flarum-email-limits/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/tacraft-sociality-flarum-email-limits/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-10-30 | `^2.0` | [Browse](https://github.com/flarchive/tacraft-sociality-flarum-email-limits/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/tacraft-sociality-flarum-email-limits.json](https://github.com/flarchive/archive-index/blob/main/packages/tacraft-sociality-flarum-email-limits.json)
 
