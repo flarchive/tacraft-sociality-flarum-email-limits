@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "name": "@tacraft-sociality/flarum-email-limits",
+    "version": "0.0.0",
+    "devDependencies": {
+        "flarum-webpack-config": "^3.1.0",
+        "webpack": "^5.104.1",
+        "webpack-cli": "^7.2.3"
+    },
+    "scripts": {
+        "build": "webpack --mode production",
+        "dev": "webpack --mode development --watch"
+    }
+}

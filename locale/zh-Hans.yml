@@ -1,0 +1,7 @@
+tacraft-sociality-email-limits:
+  admin:
+    settings:
+      suffixes_label: 允许注册的邮箱后缀
+      suffixes_help: "每行一个，也可以用逗号分隔，例如：qq.com, 163.com。留空则允许任意邮箱注册。已注册用户不受影响，但更换邮箱时同样必须使用白名单内的后缀。"
+  api:
+    invalid_email_domain: "该邮箱后缀不允许使用。允许的邮箱后缀：{suffixes}。"

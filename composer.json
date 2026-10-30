@@ -1,0 +1,38 @@
+{
+    "name": "tacraft-sociality/flarum-email-limits",
+    "description": "Only allow registration with whitelisted email suffixes.",
+    "keywords": [
+        "registration",
+        "email",
+        "spam"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tacraft Sociality"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tacraft-sociality/flarum-email-limits/issues"
+    },
+    "require": {
+        "flarum/core": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TacraftSociality\\EmailLimits\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Email-limits",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-envelope",
+                "backgroundColor": "#e8f0fe",
+                "color": "#1a73e8"
+            }
+        }
+    }
+}

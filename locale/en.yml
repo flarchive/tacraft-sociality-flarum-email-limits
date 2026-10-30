@@ -1,0 +1,7 @@
+tacraft-sociality-email-limits:
+  admin:
+    settings:
+      suffixes_label: Allowed email suffixes
+      suffixes_help: "One per line, or separated by commas. For example: qq.com, 163.com. Leave empty to allow any email address. Existing accounts keep working, but changing an email address must also use one of these suffixes."
+  api:
+    invalid_email_domain: "This email address cannot be used. Allowed email suffixes: {suffixes}."
